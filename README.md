@@ -25,5 +25,5 @@ Organizadoras | Made with :heart: by <br>
 - [Julia Pocciotto | @juliapocciotti](https://github.com/juliapocciotti)
 - [Luísa Heise | @luisaheise](https://github.com/luisaheise)
 - [Thalissa Reis | @thalissa-reis](https://github.com/thalissa-reis)
-- [Vitoria Rodrigues | @vitoriars](https://github.com/vitoriars): 
+- [Vitoria Rodrigues | @vitoriars](https://github.com/vitoriars)
 
