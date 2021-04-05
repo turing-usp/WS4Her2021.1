@@ -20,9 +20,9 @@ Por conta da pandemia de COVID-19, essa edição será online.
 8. Funções
 9. Aplicação final: chatbot 'Eliza'
 
-Organizadoras | Made with :heart: by <br>
+Organizadoras | Made with :heart: by: <br>
 - [Camilla Fonseca | @fonsecamilla](https://github.com/fonsecamilla)
-- [Julia Pocciotto | @juliapocciotti](https://github.com/juliapocciotti)
+- [Julia Pocciotti | @juliapocciotti](https://github.com/juliapocciotti)
 - [Luísa Heise | @luisaheise](https://github.com/luisaheise)
 - [Thalissa Reis | @thalissa-reis](https://github.com/thalissa-reis)
 - [Vitoria Rodrigues | @vitoriars](https://github.com/vitoriars)
