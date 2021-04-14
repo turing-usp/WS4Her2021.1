@@ -23,9 +23,11 @@ Por conta da pandemia de COVID-19, essa edição será online.
 9. Aplicação final: chatbot 'Eliza'
 
 
-1º dia - [Notebook e exercícios](https://github.com/GrupoTuring/WS4Her2021.1/blob/main/WS4Her2021.ipynb)
+* 1º dia - [Notebook e exercícios](https://github.com/GrupoTuring/WS4Her2021.1/blob/main/WS4Her2021.ipynb)
 
-2º dia - [Aplicação final](https://github.com/GrupoTuring/WS4Her2021.1/blob/main/simple_eliza.ipynb)
+* 2º dia - [Aplicação final](https://github.com/GrupoTuring/WS4Her2021.1/blob/main/simple_eliza.ipynb)
+
+* [Slides](https://www.canva.com/design/DAEZOO-1GLI/N9Qxas0lYE2Uz5ZTYQaGIw/view?utm_content=DAEZOO-1GLI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 
 
 
 Organizadoras | Made with :heart: by: <br>
