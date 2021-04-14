@@ -22,7 +22,9 @@ Por conta da pandemia de COVID-19, essa edição será online.
 8. Funções
 9. Aplicação final: chatbot 'Eliza'
 
+
 1º dia - [Notebook e exercícios](https://github.com/GrupoTuring/WS4Her2021.1/blob/main/WS4Her2021.ipynb)
+
 2º dia - [Aplicação final](https://github.com/GrupoTuring/WS4Her2021.1/blob/main/simple_eliza.ipynb)
 
 
