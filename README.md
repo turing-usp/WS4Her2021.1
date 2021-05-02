@@ -1,5 +1,6 @@
 # WS4Her2021.1 :woman: :computer: ♀️
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/turing-usp/WS4Her2021.1/HEAD)
 ----
 
 ## Tema: Introdução à Programção em Python
