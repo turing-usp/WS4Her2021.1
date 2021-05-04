@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/turing-usp/WS4Her2021.1/HEAD)
 ----
 
-## Tema: Introdução à Programção em Python
+## Tema: Introdução à Programação em Python
 
 O Workshop for Her é um  evento pensado para aproximar as mulheres da área de Data Science, Machine Learning e Inteligência Artificial.
 
