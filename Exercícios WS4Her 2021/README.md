@@ -28,4 +28,4 @@ Se você for aluno USP, tem acesso gratuito a muitos cursos do Coursera, então 
 
 * [ Python básico](https://www.coursera.org/programs/universidade-de-sao-paulo-br-on-coursera-mvxtw?collectionId=&currentTab=CATALOG&productId=lGfJI2RJEeiXlwpPEKC-GA&productType=course&showMiniModal=true)
 
-Caso queira contatar a gente de alguma forma, seja para tirar dúvidas ou dar um feedback, não esqueça de nos chamar nas nossas mídias" (Discord, Instagram ou Facebook)
+Caso queira contatar a gente de alguma forma, seja para tirar dúvidas ou dar um feedback, não esqueça de nos chamar nas nossas mídias (Discord, Instagram ou Facebook)
